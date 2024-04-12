@@ -1,0 +1,43 @@
+[
+  {
+    "role": "Senior System Engineer",
+    "organisation": "PT. Sat Nusa Persada, Tbk.",
+    "startDate": "Oct, 2023",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/satnusapersada2.webp"
+  },
+  {
+    "role": "Backend Engineer",
+    "organisation": "Legit Group",
+    "startDate": "May, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/legitgroup1.jpeg"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Indonesia Indicator",
+    "startDate": "Aug, 2021",
+    "endDate": "May, 2023",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/indonesiaindicator1.jpeg"
+  },
+  {
+    "role": "Backend Engineer",
+    "organisation": "Ustreet Transportation",
+    "startDate": "Jan, 2021",
+    "endDate": "Mar, 2021",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/ustreet1.jpeg"
+  }  
+]

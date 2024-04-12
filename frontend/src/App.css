@@ -1,0 +1,19 @@
+:root {
+  /* Colors */
+  --color-text: #fff;
+  --color-primary: #576cbc;
+  --color-secondary: #19376d;
+  --color-dark: #0b2447;
+  --color-bg: #04152d;
+
+  /* Fonts */
+  --font-roboto: "Roboto";
+}
+
+.App {
+  background-color: var(--color-bg);
+  width: 100vw; /* Menggunakan viewport width untuk lebar */
+  height: 100vh; /* Menggunakan viewport height untuk tinggi */
+  overflow-x: hidden; /* Menyembunyikan overflow horizontal */
+  overflow-y: auto; /* Mengizinkan overflow vertical jika terjadi */
+}
